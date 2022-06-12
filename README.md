@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @obaliuta
 - 👀 I’m interested in data analysis and data science
-- 🌱 I’m currently learning Python
+- 🌱 I’m using Python to work with data.
 - 💞️ I’m looking to collaborate on data science projects
 - 📫 How to reach me obaliuta@gmail.com
 
