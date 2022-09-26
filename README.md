@@ -1,8 +1,8 @@
-- 👋 Hi, I’m @obaliuta
-- 👀 I’m interested in data analysis and data science
-- 🌱 I’m using SQL, Python, Power BI to work with data
-- 💞️ I’m looking to collaborate on data science projects
-- 📫 How to reach me obaliuta@gmail.com
+- 👋 Hi there, I’m Oleh!
+- 😲 Passionate about data;
+- 🐱‍🏍 Using Power BI📊, Python🐍, and SQL🗄️ to make it work;
+- 💞️ Eager to learn new things and collaborate on data science projects;
+- 📫 Hit me at obaliuta@gmail.com
 
 <!---
 obaliuta/obaliuta is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
