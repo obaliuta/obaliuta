@@ -1,7 +1,7 @@
 - 👋 Hi there, I’m Oleh!
 - 😲 Passionate about data;
 - 🐱‍🏍 Using Power BI📊, Python🐍, and SQL🗄️ to make it work;
-- 💞️ Eager to learn new things and collaborate on data science projects;
+- 🔬 Eager to learn new things and collaborate on data science projects;
 - 📫 Hit me at obaliuta@gmail.com
 
 <!---
