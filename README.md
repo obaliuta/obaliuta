@@ -6,7 +6,7 @@
 
 Data Wrangling: I'm feeling comfortable with technologies like Python, SQL, DAX, adept at cleaning, organizing, and preparing data for analysis.
 
-Data Modeling: From scattered data to compelling data models with live connections from regular databases to custom endpoints. Data transfer and storage in Data Warehouses and Lake Houses.
+Data Modeling: From scattered data to structured data models with live connections from regular databases to custom endpoints. Data transfer and storage in Data Warehouses and Lake Houses.
 
 Data Visualization: I create compelling dashboards using tools like Power BI or matplotlib to make data speak.
 
