@@ -1,5 +1,5 @@
 - 👋 Hi there, I’m Oleh!
-- 😲 Passionate about data and analytics;
+- 😲 Passionate about data;
 - 📧 obaliuta@gmail.com
 <!---
 obaliuta/obaliuta is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
