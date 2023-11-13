@@ -14,7 +14,7 @@ Machine Learning: I'm no stranger to machine learning algorithms. I enjoy experi
 
 🌐 Connect with Me:
 
-E-mail: [Mail me](mailto:obaliuta@gmail.com)
+E-mail: [GMail](mailto:obaliuta@gmail.com)
 
 LinkedIn: [LinkedIn Profile](https://www.linkedin.com/in/baliuta/)
 
