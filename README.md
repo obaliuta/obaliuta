@@ -12,17 +12,6 @@ Data Visualization: I create compelling dashboards using tools like Power BI or 
 
 Machine Learning: I'm no stranger to machine learning algorithms. I enjoy experimenting with models to predict trends and uncover hidden insights.
 
-🌐 Connect with Me:
-
-E-mail: [GMail](mailto:obaliuta@gmail.com)
-
-LinkedIn: [LinkedIn Profile](https://www.linkedin.com/in/baliuta/)
-
-🤓 Continuous Learning:
-
-I'm always on the lookout for the latest trends and advancements in the data world. Whether it's learning about aspiring technologies, participating in online courses, or contributing to open-source projects.
-
-Let's Collaborate 🚀✨
 <!---
 obaliuta/obaliuta is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
