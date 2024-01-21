@@ -4,7 +4,7 @@
 
 Technologies: Python, SQL, DAX, Big data.
 
-Skills: Data wrangling, modeling visualization, ML, predictive analytics.
+Skills: Data wrangling, BI and visualization, modeling, ML, predictive analytics.
 
 <!---
 obaliuta/obaliuta is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
