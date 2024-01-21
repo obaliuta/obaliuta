@@ -2,6 +2,7 @@
 
 🔍 Profile Snapshot:
 Technologies: Python, SQL, DAX, Big data (Spark, Airflow).
+
 Skills: Data wrangling, modeling visualization, ML, predictive analytics.
 
 <!---
